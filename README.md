@@ -48,7 +48,9 @@ Final prediction combines:
  How to Test
 
 Upload a Before satellite image
+
 Upload an After satellite image
+
 Click Detect Changes
 
 
@@ -56,9 +58,13 @@ The system will display:
 
 
 Predicted change type
+
 Confidence score
+
 Severity level
+
 Change heatmap
+
 Vegetation & water index changes
 
 ---
@@ -66,14 +72,23 @@ Vegetation & water index changes
  Technologies Used
  
 Python
+
 PyTorch
+
 EfficientNet
+
 XGBoost
+
 OpenCV
+
 FastAPI
+
 Streamlit
+
 Plotly
+
 NumPy
+
 PIL
 
 ---
@@ -81,10 +96,15 @@ PIL
 Future Improvements
 
 Real Sentinel-2 satellite integration
+
 Google Earth Engine support
+
 Segmentation-based change localization
+
 Cloud deployment
+
 Real-time monitoring dashboard
+
 
 ---
 
