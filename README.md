@@ -45,7 +45,7 @@ Final prediction combines:
 
 
 
- How to Test
+# How to Test
 
 Upload a Before satellite image
 
@@ -54,7 +54,7 @@ Upload an After satellite image
 Click Detect Changes
 
 
-The system will display:
+# The system will display:
 
 
 Predicted change type
@@ -69,7 +69,7 @@ Vegetation & water index changes
 
 ---
 
- Technologies Used
+#  Technologies Used
  
 Python
 
@@ -93,7 +93,7 @@ PIL
 
 ---
 
-Future Improvements
+# Future Improvements
 
 Real Sentinel-2 satellite integration
 
@@ -108,7 +108,7 @@ Real-time monitoring dashboard
 
 ---
 
-Author
+# Author
 
 Danish Zulfiqar
 
