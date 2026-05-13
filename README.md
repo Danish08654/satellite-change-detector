@@ -44,6 +44,7 @@ Final prediction combines:
 ---
 
 
+
  How to Test
 
 Upload a Before satellite image
@@ -91,6 +92,4 @@ Author
 
 Danish Zulfiqar
 
-
-├── requirements.txt
-└── README.md
+---
